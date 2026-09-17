@@ -1,9 +1,15 @@
-# Welcome!
+## Welcome!
 
 My name is Michael MacMullen
 
-Amateur backend engineer
+Amateur backend engineer, I mostly use C++ and Python.
+
+- Building: [a4cpp (Automation For C++)](https://github.com/voldgalf/a4cpp)
 
 ### Stack
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white)
+
+**Languages:** Python · C · C++ · Lua · JavaScript · Bash
+
+**Databases:** PostgreSQL · SQLite · Redis
+
+**Tools:** Docker · Git
