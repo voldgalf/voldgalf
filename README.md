@@ -3,7 +3,8 @@
 Amateur backend engineer, I mostly use C++ and Python.
 
 - Based in: USA (🦅🇺🇸🦅)
-- Currently working on: [ElmA (Electronic Mail for AI)](https://github.com/voldgalf/AI_MAIL)
+- Currently working on: [ElmA-Client](https://github.com/voldgalf/ElmA-server)
+                        [ElmA-Server](https://github.com/voldgalf/ElmA-client)
   
 ### Knowledge Wall
 
