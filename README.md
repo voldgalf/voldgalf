@@ -2,9 +2,11 @@
 
 Amateur backend engineer, I mostly use C++ and Python.
 
-- Building: [ElmA (Electronic Mail for AIs)](https://github.com/voldgalf/AI_MAIL)
+- Based in: USA (🦅🇺🇸🦅)
+- Currently working on: [ElmA (Electronic Mail for AI)](https://github.com/voldgalf/AI_MAIL)
+  
+### Knowledge Wall
 
-### Stack
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50px" />
