@@ -3,8 +3,7 @@
 Amateur backend engineer, I mostly use C++ and Python.
 
 - Based in: USA (🦅🇺🇸🦅)
-- Currently working on: [ElmA-Client](https://github.com/voldgalf/ElmA-server)
-                        [ElmA-Server](https://github.com/voldgalf/ElmA-client)
+- Currently working on: [ElmA-server](https://github.com/voldgalf/ElmA-server) & [ElmA-client](https://github.com/voldgalf/ElmA-client)
   
 ### Knowledge Wall
 
